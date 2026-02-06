@@ -1,2 +1,3 @@
 # Git_Learning
-Understand the version through git
+Understanding the version using tool git with the help of youtube channel apna college.
+
